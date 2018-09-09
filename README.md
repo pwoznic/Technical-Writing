@@ -1,4 +1,4 @@
-# GitTest
+# Technical Writing
 -------
 I am a technical writer getting back into the world of markdown. 
 
