@@ -1,0 +1,24 @@
+= Technical Writing
+
+I love *technical writing* because it lets me create content for different purposes and a diverse range of products. I enjoy thinking about different approaches to presenting content and also helping users solve their problems.
+
+== Skills
+
+Technical writers have a broad range of skills that go beyond just writing procedural information.
+
+.Typical technical writing skills include:
+* *Structured Writing*
+ - Providing a _Information Architecture_ to organize high volumes of material
+ - Organizing content into specific types, such as concept and task (DITA)
+* *Content Strategy*
+ - Involving the planning, designing, authoring, and innovating of technical content
+ - Determining the appropriate content type for your audience, including API reference, technical specifications, visual overviews, procedural information, and rich media
+* *Audience Analysis*
+ - Understanding the intended users of the content
+ - Acting as the user when authoring and testing content
+* *Project Management*
+ - Managing content throughout the product development lifecycle
+ - Navigating through different levels of an organization
+* *Functionality Verification*
+ - Testing the user interface as a customer advocate
+ - Providing feedback to help improve the _User Experience_
