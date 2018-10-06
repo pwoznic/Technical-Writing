@@ -1,12 +1,12 @@
 # Technical Writing
 -------
-I am a principal technical writer and content strategist in enterprise software. I have a passion for creating narrative-driven content, and I want to begin sharing the best practices that I have learned over the years. I also hope to find some great open source projects that need help with their documentation. 
+I am a principal technical writer and content strategist in enterprise software. I have a passion for creating narrative-driven content, and I want to begin sharing the best practices that I have learned over the years. I also hope to find some great open source projects that need help with their documentation.
 
 Now and then I post random musings on my blog at [paulwozniczka.com](http://www.paulwozniczka.com).
 
 ## Why I Love Technical Writing
 
-I love *technical writing* because it lets me create content for different purposes and a diverse range of products. I enjoy thinking about different approaches to presenting content and also helping users solve their problems. This content includes text, diagrams, audio, or video; whatever it takes! 
+I love *technical writing* because it lets me create content for different purposes and a diverse range of products. I enjoy thinking about different approaches to presenting content and also helping users solve their problems. This content includes text, diagrams, audio, or video; whatever it takes!
 
 I do not know exactly why I became a technical writer, but perhaps I just enjoy telling people what to do? I love to provide narrative-driven content because I love to tell the user a story. I also focus on the *why* instead of just the *how* and *what*.
 
@@ -37,3 +37,18 @@ Typical technical writing skills include:
    - Providing feedback to help improve the _User Experience_
 
 This list only scratches the surface. We do **A LOT**.
+
+## Product Documentation Experience
+
+I have worked on many enterprise products in both mainframe and distributed where I specialized in writing, restructuring, and editing technical documentation.
+
+These products involved many areas of an enterprise for all types of customers:
+* Machine Learning, Visual Analytics, and Anomaly Detection
+* Application and Performance Management
+* Event Management and Automation
+* API Development and SDK Documentation
+* Network and System Administration
+* Virtualization in Windows, Linux, and System z
+* Help Desk Management
+* ITIL (Service Management, CMDB, Configuration Items, Asset Management)
+* Project and Portfolio Management
