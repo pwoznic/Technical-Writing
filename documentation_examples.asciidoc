@@ -1,0 +1,47 @@
+= How I Write
+
+
+
+== Technical Writing Examples
+
+In the examples that follow, I wrote a majority of the product documentation. The most notable areas are Release Notes, Getting Started, Installing, Administering, Implementing, Using, and Reference. These particular sections get the most traffic in most product spaces. These projects operate in a global, Agile environment with multiple contributors. The customers that use these products include various government agencies, almost every major financial organization, large retailers, and so on.
+
+.I have lead the technical writing efforts and teams for the following projects:
+1. link:https://docops.ca.com/moi[CA Mainframe Operational Intelligence]
+** The *Getting Started*, *Preparing for Installation*, *Installing*, and *Integrating* sections received an STC Award of Excellence!
+** The thorough prerequisite and installation information was vetted by customers to ensure a smooth installation of a complex, multi-product solution.
+** Whenever possible, I add **architectural diagrams** to help customesr with implementing a solution.
+** The **Installation Checklist** was a big hit with customers!
+** The *Troubleshooting* section helps customers resolve their common issues, so that they do not have to contact support.
+2. link:https://docops.ca.com/ca-opsmvs/13-5/en[CA OPSMVS Event Management and Automation]
+** I documented many specific *parameter* and *coding examples* to improve the reference information.
+** The primary audience of many parts of this documentation are developers who need specific coding examples to help set up and maintain event automation in their environments.
+** The *Best Practices* section contains content that our customers wanted featured more prominently.
+3. link:https://docops.ca.com/ca-mainframe-team-center-content-viewer/14-0/en/api-reference[Mainframe Team Center - Content Viewer]
+** The *API Reference* uses Swagger and OpenAPI and this content also won an STC Award!
+** API Developers have provided excellent feedback about this content. In addition to Swagger, I used a reference style that I helped standardize at my company because it helped with the PDF output (Swagger does not export to PDF in Confluence).
+** I created the entire documentation set from scratch because it was a brand new product.
+4. link:https://docops.ca.com/ca-output-management-web-viewer/12-1/en/installing[CA Output Management Web Viewer]
+** I want to highlight the *Installing* section which covers the various deployment scenarios. Our customers have different environments, so I captured every possible combination.
+** I also provided diagrams to help them plan their deployments and get up and running.
+5. link:https://docops.ca.com/ca-xcom-data-transport-for-unix-linux/11-6-01/en[CA XCOM Data Transport for UNIX/Linux]
+** The *Overview* content covers several remote systems, including OpenVMS, UNIX, Linux, Windows, z/OS, and z/VM.
+** The *Installing and Upgrading* section follows a standard that helped create for the organization.
+6.  link:https://docops.ca.com/mainframe-team-center-network-management/12-2/en[Mainframe Team Center - Network Management]
+** I created several *YouTube* videos about the functionality of this web component to CA NetMaster
+** I ensured that the *Utilities* section contained many examples of sample output.
+7. link:https://docops.ca.com/ca-netmaster-network-management-for-tcpip/12-2/en[CA NetMaster Network Management for TCP/IP]
+** This product has several related documentation sets, many of which are *Reference* content.
+** The *Administering* section provides examples of my style when writing task-based documentation that is also easily searchable.
+8. link:https://docops.ca.com/ca-view/14-0/en[CA View]
+** This example shows the various *audiences* that I craft my content.
+** The *Installing* and *Configuration* content ensures that customers can get up and running with a powerful product.
+9. link:https://docops.ca.com/ca-service-management/17-1/en[CA Service Desk Manager]
+** The *Administering* content shows more example of my task-based writing.
+** The *Integrating* content has some of the largest views because many customers utilize these powerful integrations.
+10. link:https://docops.ca.com/ca-mics-resource-management/14-2/en[CA MICS Resource Management]
+** The *Planning* section helps you prepare for this complex solution.
+** The *Installation* section provides prerequisite and preparation content such as checklists.
+
+
+I will continue adding documentation examples that showcase my skills.
