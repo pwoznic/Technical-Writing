@@ -16,7 +16,7 @@ I love to provide narrative-driven content because I love to tell the user a sto
 
 Technical writers have a broad range of skills that go beyond *writing* procedures and overview information. I often wear many hats, and I enjoy it! I thrive in this kind of environment!
 
-Typical technical writing skills include:
+These broad range of technical writing skills include:
 * **Structured Writing**
    - Providing an _Information Architecture_ to structure large volumes of information
    - Organizing content into specific types, such as concepts, processes, and tasks (DITA)
@@ -39,15 +39,15 @@ Typical technical writing skills include:
    - Testing the user interface as a customer advocate
    - Providing feedback to help improve the _User Experience_
 
-This list only scratches the surface. We do **A LOT**.
+This list of skills only scratches the surface. We do **A LOT**.
 
 ## Product Documentation Experience
 
-I have worked on many enterprise products in both mainframe and distributed where I specialized in writing, restructuring, and editing technical documentation.
+I have worked on many enterprise products in both mainframe and distributed where I specialized in planning, writing, restructuring, and editing technical documentation.
 
 In the examples that follow, I wrote a majority of the product documentation. The most notable areas are Release Notes, Getting Started, Installing, Administering, Implementing, Using, and Reference. These particular sections get the most traffic in most product documentation spaces. These projects operate in a global, Agile environment with large development teams. The customers that use these products include various government agencies, almost every major financial and banking organization, large retailers, and so on.
 
-I have lead the technical writing efforts and teams for the following projects:
+I have lead the technical writing efforts and teams for the following projects (remember to Ctrl+Click to open the link in a new tab!):
 1. [CA Mainframe Operational Intelligence](https://docops.ca.com/moi)
  - The *Getting Started*, *Preparing for Installation*, *Installing*, and *Integrating* sections received an STC Award of Excellence!
  - The thorough prerequisite and installation information was vetted by customers to ensure a smooth installation of a complex, multi-product solution.
